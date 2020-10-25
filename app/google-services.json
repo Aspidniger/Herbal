@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "901578137278",
+    "firebase_url": "https://proyherbalife.firebaseio.com",
+    "project_id": "proyherbalife",
+    "storage_bucket": "proyherbalife.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901578137278:android:47d4322ef661ae601408ef",
+        "android_client_info": {
+          "package_name": "com.example.herbalex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901578137278-3n01ti5e394334sukreaqijnqms3hg8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChqN4q88C4ICSjKZms0F7nHOP_yQLbdNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901578137278-3n01ti5e394334sukreaqijnqms3hg8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
